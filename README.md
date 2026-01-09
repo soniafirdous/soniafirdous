@@ -1,21 +1,18 @@
 # 💫 About Me:
-I am a Data Science student with hands-on experience in Machine Learning, NLP, and Deep Learning. I enjoy building end-to-end projects using Python and Scikit-learn, experimenting with LSTM/Bi-LSTM models, and deploying applications with Streamlit. I am continuously learning and actively seeking Data Science or ML internship opportunities.<br>
+I am a Data Science student with hands-on experience in Machine Learning, Deep Learning, Natural Language Processing (NLP), and Time Series Forecasting. I enjoy working on real-world problems and building end-to-end data science projects — from data cleaning and feature engineering to model training, evaluation, and deployment.<br><br>I have worked extensively with Python, Pandas, NumPy, and Scikit-learn, and built machine learning models such as Logistic Regression (One-vs-Rest), KNN, and classical regression models. In NLP, I have implemented text preprocessing pipelines, TF-IDF vectorization, tokenization, padding, and trained LSTM and Bi-LSTM models for sentiment analysis and text classification.<br><br>I have also explored Time Series Forecasting using SARIMA, Holt-Winters, LSTM, and Facebook Prophet, comparing traditional statistical approaches with deep learning models. For deployment, I use Streamlit to create interactive applications, and I am comfortable handling real deployment challenges such as pickle/dill model loading issues, dependency management, and environment debugging.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonia firdous) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonia firdous) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soniafirdous1985@gmail.com) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=soniafirdous&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=soniafirdous&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soniafirdous&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=soniafirdous&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=soniafirdous&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=soniafirdous&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=soniafirdous&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=soniafirdous&icon=7&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=soniafirdous&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
